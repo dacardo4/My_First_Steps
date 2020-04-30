@@ -10,9 +10,10 @@ This is the route that I followed:
 - npm init
 - (Create .gitignore)
 - npm install loopback-cli
-- npx lb -v
-- npx lb
+- [npx] lb -v
+- [npx] lb
 
 - cd (folderName)
 -- node .
--- npx lb model
+-- lb datasource
+-- lb model
