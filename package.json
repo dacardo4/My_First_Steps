@@ -1,0 +1,11 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "// V3\r npm install -g loopback-cli\r npx lb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
