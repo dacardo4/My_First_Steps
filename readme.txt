@@ -12,3 +12,7 @@ This is the route that I followed:
 - npm install loopback-cli
 - npx lb -v
 - npx lb
+
+- cd (folderName)
+-- node .
+-- npx lb model
