@@ -2,6 +2,7 @@
 git init
 npm init
 
+(Create .gitignore)
 
 
 
