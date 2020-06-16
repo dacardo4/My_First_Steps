@@ -17,3 +17,14 @@ This is the route that I followed:
 -- node .
 -- lb datasource
 -- lb model
+
+# Verion 4
+
+- npm install -g @loopback/cli
+- lb4 (app_name)
+- cd (app_name)
+- lb4 datasource
+- lb4 model
+- lb4 repository
+- lb4 controller
+- npm start
